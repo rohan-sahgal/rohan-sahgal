@@ -1,4 +1,4 @@
-# Hello, Rohan here.
+# 👋 Hello, Rohan here.
 
 I'm a recent Computer Science grad from the University of Toronto, and am currently looking for fresh graduate opportunities in Software Development.
 
