@@ -10,7 +10,7 @@ Outside of writing code and building software, I enjoy playing video games, read
 
 
 You can reach me through:
-- [Email](rohansahgal@hotmail.com)
+- [Email](mailto:rohansahgal@hotmail.com)
 - [Linkedin](https://www.linkedin.com/in/rohan-sahgal/)
 
 Or check out my [personal website](https://rohan-sahgal.github.io)!
