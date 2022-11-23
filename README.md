@@ -1,6 +1,6 @@
 # 👋 Hello, Rohan here.
 
-I'm a recent Computer Science graduate from the University of Toronto, and am currently looking for fresh graduate opportunities in Software Development.
+I'm a Computer Science graduate from the University of Toronto, and am currently looking for fresh graduate opportunities in Software Development.
 
 Since I was young, I've had a huge passion for science, both the natural and especially the technological. I hope to apply those passions in a fulfilling way, and hopefully make the world better in some small (or big!) way along the way.
 
